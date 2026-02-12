@@ -149,13 +149,7 @@ const LoginForm: React.FC = () => {
             </p>
           </div>
 
-          <div className="mt-8 p-4 bg-gray-50 rounded-lg">
-            <h3 className="font-medium text-gray-800 mb-2">Demo Credentials:</h3>
-            <div className="text-sm text-gray-600 space-y-1">
-              <p><strong>Doctor:</strong> doctor@medicare.com / password123</p>
-              <p><strong>Receptionist:</strong> receptionist@medicare.com / password123</p>
-            </div>
-          </div>
+
         </div>
       </div>
     </div>
